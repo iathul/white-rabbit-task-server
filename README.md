@@ -1,6 +1,6 @@
 Server
 
-## Project setup
+## Clone the project and run
 ```
 npm install
 ```
